@@ -1,0 +1,10 @@
+D:\VS Projects\Png2Ico\Png2Ico\bin\x64\Debug\Png2Ico.exe.config
+D:\VS Projects\Png2Ico\Png2Ico\bin\x64\Debug\Png2Ico.exe
+D:\VS Projects\Png2Ico\Png2Ico\bin\x64\Debug\Png2Ico.pdb
+D:\VS Projects\Png2Ico\Png2Ico\obj\x64\Debug\Png2Ico.Form1.resources
+D:\VS Projects\Png2Ico\Png2Ico\obj\x64\Debug\Png2Ico.Properties.Resources.resources
+D:\VS Projects\Png2Ico\Png2Ico\obj\x64\Debug\Png2Ico.csproj.GenerateResource.cache
+D:\VS Projects\Png2Ico\Png2Ico\obj\x64\Debug\Png2Ico.csproj.CoreCompileInputs.cache
+D:\VS Projects\Png2Ico\Png2Ico\obj\x64\Debug\Png2Ico.exe
+D:\VS Projects\Png2Ico\Png2Ico\obj\x64\Debug\Png2Ico.pdb
+D:\VS Projects\Png2Ico\Png2Ico\obj\x64\Debug\Png2Ico.csprojAssemblyReference.cache
